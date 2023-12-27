@@ -1,0 +1,24 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "For this week's assignment, I have developed an application that will allow the user to post blogs to a live webpage, but only after creating an account with a username and password. The application will utilize further knowledge of MySQL databases through Sequelize, along with a foundational understanding of Model-View-Controller web development.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "connect-session-sequelize": "^7.0.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
