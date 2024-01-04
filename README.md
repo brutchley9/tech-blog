@@ -11,7 +11,7 @@ Please make sure to look within the package.json file for any dependencies neede
 
 Follow link https://github.com/brutchley9/tech-blog to access GitHub repository for this website (including code).
 
-Follow link ------------------- to view and interact with the deployed website on Heroku.
+Follow link https://guarded-refuge-34646-93e093fa79f4.herokuapp.com/ to view and interact with the deployed website on Heroku.
 
 
 ---
@@ -19,8 +19,8 @@ Follow link ------------------- to view and interact with the deployed website o
 
 # Resources
 
-<li></li>
+<li>https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql</li>
     
-<li></li>
+<li>https://handlebarsjs.com/guide/#what-is-handlebars</li>
     
-<li></li>
+<li>https://www.codementor.io/@parthibakumarmurugesan/what-is-env-how-to-set-up-and-run-a-env-file-in-node-1pnyxw9yxj</li>
